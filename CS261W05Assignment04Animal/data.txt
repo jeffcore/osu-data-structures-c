@@ -1,0 +1,27 @@
+QIs it a mammal?
+QDoes it live in water?
+QIs it huge?
+AWhale
+ADolphin
+QDoes it live in trees?
+AMonkey
+QDoes it talk?
+AHuman
+QIs it the king of the jungle?
+ALion
+QDoes it meow?
+ACat
+QDoes it have a huge, long nose?
+AElephant
+QIs it white and live in the artic?
+APolar Bear
+ADog
+QLive in water?
+QDoes it have no fins?
+ASnake
+AFish
+QDoes it fly?
+ABird
+QIs it big?
+ALizard
+AAlligator
